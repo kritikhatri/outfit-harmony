@@ -1,6 +1,6 @@
 {
   "name": "outfit-harmony",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check whether outfit colours go together and get matching suggestions - colour theory with fashion-aware neutrals (navy, denim, camel, cream...). Zero dependencies.",
   "type": "module",
   "main": "./src/index.js",
